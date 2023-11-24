@@ -1,0 +1,4 @@
+flask
+jsonschema
+neasqc_qrbs
+pytest
